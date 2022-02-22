@@ -9,6 +9,8 @@ Every city and every hotel could be marked as "favourite" by using the Heart-But
 
 The whole page is designed with the help of the TailwindCSS Framework which also allowed me to implement a simple light/darkmode switcher.
 
+[Demo](https://michaeleder.myqnapcloud.com:8081/cHoliday)
+
 ## Setup
 
 Just download the files and put them into your localhost directory. Then open the kwm-config.js file in the kwmJS/core directory and adjust the webRoot on line 16 accordingly to your webserver. And that's it :D
